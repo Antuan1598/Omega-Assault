@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 9bb9fe3e1be4da44f8bb46bc46bae0c0
+guid: 6ee24ecd001f0304bbf952a31291cfd9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4415704770701272927
-    second: Sprites1_0
+      213: -4495517081995322552
+    second: "Sin t\xEDtulo-2_0"
   - first:
-      213: 9140374123532969576
-    second: Sprites1_1
+      213: -8034372239190184496
+    second: "Sin t\xEDtulo-2_1"
   - first:
-      213: -939091370447104603
-    second: Sprites1_2
+      213: 2913453044749259461
+    second: "Sin t\xEDtulo-2_2"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,7 +103,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -116,7 +116,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -158,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprites1_0
+      name: "Sin t\xEDtulo-2_0"
       rect:
         serializedVersion: 2
-        x: 1482
-        y: 2609
-        width: 1186
-        height: 1391
+        x: 126
+        y: 410
+        width: 300
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a85a5d08e348b2c0800000000000000
-      internalID: -4415704770701272927
+      spriteID: 84bd7fd3807bc91c0800000000000000
+      internalID: -4495517081995322552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites1_1
+      name: "Sin t\xEDtulo-2_1"
       rect:
         serializedVersion: 2
-        x: 2861
-        y: 2646
-        width: 987
-        height: 1129
+        x: 638
+        y: 596
+        width: 300
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 866ea5b66d129de70800000000000000
-      internalID: 9140374123532969576
+      spriteID: 0dd2fc1340d208090800000000000000
+      internalID: -8034372239190184496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites1_2
+      name: "Sin t\xEDtulo-2_2"
       rect:
         serializedVersion: 2
-        x: 2387
-        y: 973
-        width: 1289
-        height: 1117
+        x: 609
+        y: 110
+        width: 300
+        height: 300
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,8 +217,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a59dd4cf5da7f2f0800000000000000
-      internalID: -939091370447104603
+      spriteID: 5c25f0aab1aae6820800000000000000
+      internalID: 2913453044749259461
       vertices: []
       indices: 
       edges: []
@@ -227,7 +227,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ccd9ef8898cd49449a649f7c9aecaa7a
+    spriteID: df34923ed18e03848abff87e149308b2
     internalID: 0
     vertices: []
     indices: 
@@ -239,9 +239,9 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Sprites1_0: -4415704770701272927
-      Sprites1_1: 9140374123532969576
-      Sprites1_2: -939091370447104603
+      "Sin t\xEDtulo-2_0": -4495517081995322552
+      "Sin t\xEDtulo-2_1": -8034372239190184496
+      "Sin t\xEDtulo-2_2": 2913453044749259461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
