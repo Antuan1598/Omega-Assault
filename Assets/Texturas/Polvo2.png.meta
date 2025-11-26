@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: be8cb3f7fa1038e448f9bf33c31fba24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 374186884374396407
+    second: Polvo2_0
+  - first:
+      213: -743364271486071580
+    second: Polvo2_1
+  - first:
+      213: 5704878464615453635
+    second: Polvo2_2
+  - first:
+      213: 5554067678657929154
+    second: Polvo2_3
+  - first:
+      213: 2083074432162712471
+    second: Polvo2_4
+  - first:
+      213: -787480784504830060
+    second: Polvo2_5
+  - first:
+      213: 5775287839952702191
+    second: Polvo2_6
+  - first:
+      213: 6883120339034914363
+    second: Polvo2_7
+  - first:
+      213: 7013044279389207286
+    second: Polvo2_8
+  - first:
+      213: -7890331535135935897
+    second: Polvo2_9
+  - first:
+      213: -6691047071825517343
+    second: Polvo2_10
+  - first:
+      213: 3289689220009876084
+    second: Polvo2_11
+  - first:
+      213: -3652491973556693994
+    second: Polvo2_12
+  - first:
+      213: -4025149713231898527
+    second: Polvo2_13
+  - first:
+      213: 1495337434315276310
+    second: Polvo2_14
+  - first:
+      213: -4426033157336980695
+    second: Polvo2_15
+  - first:
+      213: -1358501969838252106
+    second: Polvo2_16
+  - first:
+      213: 4498117420892539258
+    second: Polvo2_17
+  - first:
+      213: -4730036617230729295
+    second: Polvo2_18
+  - first:
+      213: 7911820963303556908
+    second: Polvo2_19
+  - first:
+      213: -419506382953102744
+    second: Polvo2_20
+  - first:
+      213: 504209590026284601
+    second: Polvo2_21
+  - first:
+      213: 3365171990790150901
+    second: Polvo2_22
+  - first:
+      213: 6875287207393359468
+    second: Polvo2_23
+  - first:
+      213: -8299991753412978944
+    second: Polvo2_24
+  - first:
+      213: 7003815420011085601
+    second: Polvo2_25
+  - first:
+      213: 4777705988695846686
+    second: Polvo2_26
+  - first:
+      213: -1798237310307814571
+    second: Polvo2_27
+  - first:
+      213: 3067093930802048085
+    second: Polvo2_28
+  - first:
+      213: 2078220867545931167
+    second: Polvo2_29
+  - first:
+      213: -4084666067942297775
+    second: Polvo2_30
+  - first:
+      213: -6147899094077745088
+    second: Polvo2_31
+  - first:
+      213: 3442833019507859021
+    second: Polvo2_32
+  - first:
+      213: 4644580901457367669
+    second: Polvo2_33
+  - first:
+      213: 6340915112216795575
+    second: Polvo2_34
+  - first:
+      213: -5215069648958155127
+    second: Polvo2_35
+  - first:
+      213: -911874786683930580
+    second: Polvo2_36
+  - first:
+      213: -7767044449186653245
+    second: Polvo2_37
+  - first:
+      213: -6431984538322585005
+    second: Polvo2_38
+  - first:
+      213: -5117958066024721047
+    second: Polvo2_39
+  - first:
+      213: 4923199520924989583
+    second: Polvo2_40
+  - first:
+      213: -5087491473508185332
+    second: Polvo2_41
+  - first:
+      213: 4850094165106343796
+    second: Polvo2_42
+  - first:
+      213: -9180671339640930457
+    second: Polvo2_43
+  - first:
+      213: -3366700330351158267
+    second: Polvo2_44
+  - first:
+      213: -1335472912396922574
+    second: Polvo2_45
+  - first:
+      213: -4871619222758623354
+    second: Polvo2_46
+  - first:
+      213: -6116394105056777059
+    second: Polvo2_47
+  - first:
+      213: 3558359418591486454
+    second: Polvo2_48
+  - first:
+      213: 5925817141747945357
+    second: Polvo2_49
+  - first:
+      213: 8277151649113044140
+    second: Polvo2_50
+  - first:
+      213: 6511391168000748720
+    second: Polvo2_51
+  - first:
+      213: -3719876124782526500
+    second: Polvo2_52
+  - first:
+      213: 6607025681455204054
+    second: Polvo2_53
+  - first:
+      213: -5458387413765947079
+    second: Polvo2_54
+  - first:
+      213: 8926535354635160920
+    second: Polvo2_55
+  - first:
+      213: 5486081802429676174
+    second: Polvo2_56
+  - first:
+      213: -8616798490992641970
+    second: Polvo2_57
+  - first:
+      213: -228318663323540085
+    second: Polvo2_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polvo2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfeb22df0613500800000000000000
+      internalID: 374186884374396407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 989
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0b53322a0fa5f0800000000000000
+      internalID: -743364271486071580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 986
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c31e22ecbccb2f40800000000000000
+      internalID: 5704878464615453635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 993
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf52e48023041d40800000000000000
+      internalID: 5554067678657929154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 990
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc1c1d82198ec10800000000000000
+      internalID: 2083074432162712471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 994
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c424166e4215f0800000000000000
+      internalID: -787480784504830060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 990
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea830011b1f52050800000000000000
+      internalID: 5775287839952702191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 993
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e3172ea71c58f50800000000000000
+      internalID: 6883120339034914363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 991
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa341b8d96535160800000000000000
+      internalID: 7013044279389207286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 985
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f8280649ef7290800000000000000
+      internalID: -7890331535135935897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42c6c8320a423a0800000000000000
+      internalID: -6691047071825517343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 989
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ade148ae257ad20800000000000000
+      internalID: 3289689220009876084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 985
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614103bd6edbf4dc0800000000000000
+      internalID: -3652491973556693994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 989
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681c0779abc328c0800000000000000
+      internalID: -4025149713231898527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_14
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 989
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c4bf497180c410800000000000000
+      internalID: 1495337434315276310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 985
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92324d42b429392c0800000000000000
+      internalID: -4426033157336980695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 995
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf5f15f7a1a52de0800000000000000
+      internalID: -1358501969838252106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 986
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cb4656f58c6e30800000000000000
+      internalID: 4498117420892539258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 987
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf3f57e1c88b5eb0800000000000000
+      internalID: -4730036617230729295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 988
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27823c5f3f6ccd60800000000000000
+      internalID: 7911820963303556908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 990
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624217da2d9d2af0800000000000000
+      internalID: -419506382953102744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 987
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eacd163ff4ff600800000000000000
+      internalID: 504209590026284601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_22
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 992
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa142f981e73be20800000000000000
+      internalID: 3365171990790150901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_23
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 994
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f77dc94de96f50800000000000000
+      internalID: 6875287207393359468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 991
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d52bb97180dc80800000000000000
+      internalID: -8299991753412978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 986
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff926440d823160800000000000000
+      internalID: 7003815420011085601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 994
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe8798842dd4240800000000000000
+      internalID: 4777705988695846686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 984
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553bf3991b06b07e0800000000000000
+      internalID: -1798237310307814571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_28
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c663e0ea1809a20800000000000000
+      internalID: 3067093930802048085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 984
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d11ee3ed257dc10800000000000000
+      internalID: 2078220867545931167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_30
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 989
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f253a4ad95057c0800000000000000
+      internalID: -4084666067942297775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_31
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 992
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048dc8ec8564eaaa0800000000000000
+      internalID: -6147899094077745088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_32
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 988
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e50cce36667cf20800000000000000
+      internalID: 3442833019507859021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_33
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 989
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5721ee9c8bdd47040800000000000000
+      internalID: 4644580901457367669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_34
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 992
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9969ee2b47ff750800000000000000
+      internalID: 6340915112216795575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_35
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 991
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9869deee8c950a7b0800000000000000
+      internalID: -5215069648958155127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_36
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 991
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b11c76be5853f0800000000000000
+      internalID: -911874786683930580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 991
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5f8b993ae53490800000000000000
+      internalID: -7767044449186653245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 988
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a3a78f3200db6a0800000000000000
+      internalID: -6431984538322585005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965504b414c59f8b0800000000000000
+      internalID: -5117958066024721047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_40
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887b1b41e7b25440800000000000000
+      internalID: 4923199520924989583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_41
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 985
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b47b3a5799569b0800000000000000
+      internalID: -5087491473508185332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 985
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fbb5e32fefe4340800000000000000
+      internalID: 4850094165106343796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 982
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb711de04b79080800000000000000
+      internalID: -9180671339640930457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_44
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9a3813e31741d0800000000000000
+      internalID: -3366700330351158267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_45
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 984
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231dc693672777de0800000000000000
+      internalID: -1335472912396922574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 987
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687f18ab028846cb0800000000000000
+      internalID: -4871619222758623354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_47
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 983
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c2ccda7f33e1ba0800000000000000
+      internalID: -6116394105056777059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_48
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 988
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1af48c905d16130800000000000000
+      internalID: 3558359418591486454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_49
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 983
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f8ec94b4bbc3250800000000000000
+      internalID: 5925817141747945357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_50
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 985
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4fb6512995ed270800000000000000
+      internalID: 8277151649113044140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 983
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcec4ab4cb1d5a50800000000000000
+      internalID: 6511391168000748720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_52
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 986
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf71ed8f58506cc0800000000000000
+      internalID: -3719876124782526500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_53
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 982
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6450d0aded0bb50800000000000000
+      internalID: 6607025681455204054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_54
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93184042199ef34b0800000000000000
+      internalID: -5458387413765947079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8ef73c9c61eb70800000000000000
+      internalID: 8926535354635160920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a3e82355a722c40800000000000000
+      internalID: 5486081802429676174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48f24b1d6bfa6880800000000000000
+      internalID: -8616798490992641970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polvo2_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852209a269d4dcf0800000000000000
+      internalID: -228318663323540085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Polvo2_0: 374186884374396407
+      Polvo2_1: -743364271486071580
+      Polvo2_10: -6691047071825517343
+      Polvo2_11: 3289689220009876084
+      Polvo2_12: -3652491973556693994
+      Polvo2_13: -4025149713231898527
+      Polvo2_14: 1495337434315276310
+      Polvo2_15: -4426033157336980695
+      Polvo2_16: -1358501969838252106
+      Polvo2_17: 4498117420892539258
+      Polvo2_18: -4730036617230729295
+      Polvo2_19: 7911820963303556908
+      Polvo2_2: 5704878464615453635
+      Polvo2_20: -419506382953102744
+      Polvo2_21: 504209590026284601
+      Polvo2_22: 3365171990790150901
+      Polvo2_23: 6875287207393359468
+      Polvo2_24: -8299991753412978944
+      Polvo2_25: 7003815420011085601
+      Polvo2_26: 4777705988695846686
+      Polvo2_27: -1798237310307814571
+      Polvo2_28: 3067093930802048085
+      Polvo2_29: 2078220867545931167
+      Polvo2_3: 5554067678657929154
+      Polvo2_30: -4084666067942297775
+      Polvo2_31: -6147899094077745088
+      Polvo2_32: 3442833019507859021
+      Polvo2_33: 4644580901457367669
+      Polvo2_34: 6340915112216795575
+      Polvo2_35: -5215069648958155127
+      Polvo2_36: -911874786683930580
+      Polvo2_37: -7767044449186653245
+      Polvo2_38: -6431984538322585005
+      Polvo2_39: -5117958066024721047
+      Polvo2_4: 2083074432162712471
+      Polvo2_40: 4923199520924989583
+      Polvo2_41: -5087491473508185332
+      Polvo2_42: 4850094165106343796
+      Polvo2_43: -9180671339640930457
+      Polvo2_44: -3366700330351158267
+      Polvo2_45: -1335472912396922574
+      Polvo2_46: -4871619222758623354
+      Polvo2_47: -6116394105056777059
+      Polvo2_48: 3558359418591486454
+      Polvo2_49: 5925817141747945357
+      Polvo2_5: -787480784504830060
+      Polvo2_50: 8277151649113044140
+      Polvo2_51: 6511391168000748720
+      Polvo2_52: -3719876124782526500
+      Polvo2_53: 6607025681455204054
+      Polvo2_54: -5458387413765947079
+      Polvo2_55: 8926535354635160920
+      Polvo2_56: 5486081802429676174
+      Polvo2_57: -8616798490992641970
+      Polvo2_58: -228318663323540085
+      Polvo2_6: 5775287839952702191
+      Polvo2_7: 6883120339034914363
+      Polvo2_8: 7013044279389207286
+      Polvo2_9: -7890331535135935897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

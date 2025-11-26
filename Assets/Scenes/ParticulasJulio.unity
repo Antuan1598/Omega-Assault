@@ -205,7 +205,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 8020143640844766479, guid: 3e79b5ce75a29bd45a5a35ffc79ceb8a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2242,6 +2242,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2411697901378465360, guid: a0371ba8cfe0bb44c832bd88dfef19bd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5437274262125114295, guid: a0371ba8cfe0bb44c832bd88dfef19bd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9012352034832418599, guid: a0371ba8cfe0bb44c832bd88dfef19bd, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 9128577069343691447, guid: a0371ba8cfe0bb44c832bd88dfef19bd, type: 3}
       propertyPath: m_Name
       value: PolvoDesierto
@@ -2299,9 +2311,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 357003874510625001, guid: afdb1e72505f05a41a9bc826f3506c22, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 2535383173541554313, guid: afdb1e72505f05a41a9bc826f3506c22, type: 3}
       propertyPath: m_Name
       value: Explosion
+      objectReference: {fileID: 0}
+    - target: {fileID: 5555712020594571457, guid: afdb1e72505f05a41a9bc826f3506c22, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6218391426494507947, guid: afdb1e72505f05a41a9bc826f3506c22, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8597977897475469196, guid: afdb1e72505f05a41a9bc826f3506c22, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2316,6 +2344,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 387220397488955932, guid: d2f840649ed8c30439e26120e80f1ec3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 414272776322878459, guid: d2f840649ed8c30439e26120e80f1ec3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 953230749877617525, guid: d2f840649ed8c30439e26120e80f1ec3, type: 3}
       propertyPath: m_Name
       value: HumoDeMotor
@@ -2359,6 +2395,10 @@ PrefabInstance:
     - target: {fileID: 3396307629419106636, guid: d2f840649ed8c30439e26120e80f1ec3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6802361720557726816, guid: d2f840649ed8c30439e26120e80f1ec3, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
