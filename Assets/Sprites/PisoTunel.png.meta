@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 27ca44e2e82f990418859a3affafd174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -380913757370711460
+    second: PisoTunel_0
+  - first:
+      213: 5817704207837731590
+    second: PisoTunel_1
+  - first:
+      213: -4154802458591178047
+    second: PisoTunel_2
+  - first:
+      213: -8494535740748440804
+    second: PisoTunel_3
+  - first:
+      213: 4230712640941575517
+    second: PisoTunel_4
+  - first:
+      213: -866262716566623193
+    second: PisoTunel_5
+  - first:
+      213: 161622513620873137
+    second: PisoTunel_6
+  - first:
+      213: -2129318613079224615
+    second: PisoTunel_7
+  - first:
+      213: -3985780541813008347
+    second: PisoTunel_8
+  - first:
+      213: 3786036866339006308
+    second: PisoTunel_9
+  - first:
+      213: -3526331610603542201
+    second: PisoTunel_10
+  - first:
+      213: 6293821379052696521
+    second: PisoTunel_11
+  - first:
+      213: 2874725200183048768
+    second: PisoTunel_12
+  - first:
+      213: 9120882973517937728
+    second: PisoTunel_13
+  - first:
+      213: 5526887381046653715
+    second: PisoTunel_14
+  - first:
+      213: -2925442327380167533
+    second: PisoTunel_15
+  - first:
+      213: 7282548082689297322
+    second: PisoTunel_16
+  - first:
+      213: 2067043848657262547
+    second: PisoTunel_17
+  - first:
+      213: -1736155666324027778
+    second: PisoTunel_18
+  - first:
+      213: -1123302157093768382
+    second: PisoTunel_19
+  - first:
+      213: 8359714709217291862
+    second: PisoTunel_20
+  - first:
+      213: -7023938966329764384
+    second: PisoTunel_21
+  - first:
+      213: -7090173053245802104
+    second: PisoTunel_22
+  - first:
+      213: 7968918532610892001
+    second: PisoTunel_23
+  - first:
+      213: -4044448455200768940
+    second: PisoTunel_24
+  - first:
+      213: 4718748228762933155
+    second: PisoTunel_25
+  - first:
+      213: 1957440119144769007
+    second: PisoTunel_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PisoTunel_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c520cd1b4f8b6baf0800000000000000
+      internalID: -380913757370711460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b967c4723acb050800000000000000
+      internalID: 5817704207837731590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d0cf4d2d2756c0800000000000000
+      internalID: -4154802458591178047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b54d0ffb85d1a80800000000000000
+      internalID: -8494535740748440804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_4
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc31e4bb286ba30800000000000000
+      internalID: 4230712640941575517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_5
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca1e026aa6af3f0800000000000000
+      internalID: -866262716566623193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_6
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 686
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe310e1d23e3200800000000000000
+      internalID: 161622513620873137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de09c5c0042372e0800000000000000
+      internalID: -2129318613079224615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528529cf6b9afa8c0800000000000000
+      internalID: -3985780541813008347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4676bac7874ba8430800000000000000
+      internalID: 3786036866339006308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749aebd5514ff0fc0800000000000000
+      internalID: -3526331610603542201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f13ab235285750800000000000000
+      internalID: 6293821379052696521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_12
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a36cfa65315e720800000000000000
+      internalID: 2874725200183048768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 475
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf17a6db2e39e70800000000000000
+      internalID: 9120882973517937728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313ffd45ac273bc40800000000000000
+      internalID: 5526887381046653715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394fc91f3bdb667d0800000000000000
+      internalID: -2925442327380167533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabc56885eec01560800000000000000
+      internalID: 7282548082689297322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75f5ebd6d9fac10800000000000000
+      internalID: 2067043848657262547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7689f9be9fe7e7e0800000000000000
+      internalID: -1736155666324027778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243fefeb3aa3960f0800000000000000
+      internalID: -1123302157093768382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 264
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e21828c3ca30470800000000000000
+      internalID: 8359714709217291862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5d3eb79b4f58e90800000000000000
+      internalID: -7023938966329764384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889bc356c25aa9d90800000000000000
+      internalID: -7090173053245802104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0ac4c2f29479e60800000000000000
+      internalID: 7968918532610892001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_24
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c7163fe8b3fd7c0800000000000000
+      internalID: -4044448455200768940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_25
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a71be7538c5c7140800000000000000
+      internalID: 4718748228762933155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PisoTunel_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 53
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e8bada693a2b10800000000000000
+      internalID: 1957440119144769007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PisoTunel_0: -380913757370711460
+      PisoTunel_1: 5817704207837731590
+      PisoTunel_10: -3526331610603542201
+      PisoTunel_11: 6293821379052696521
+      PisoTunel_12: 2874725200183048768
+      PisoTunel_13: 9120882973517937728
+      PisoTunel_14: 5526887381046653715
+      PisoTunel_15: -2925442327380167533
+      PisoTunel_16: 7282548082689297322
+      PisoTunel_17: 2067043848657262547
+      PisoTunel_18: -1736155666324027778
+      PisoTunel_19: -1123302157093768382
+      PisoTunel_2: -4154802458591178047
+      PisoTunel_20: 8359714709217291862
+      PisoTunel_21: -7023938966329764384
+      PisoTunel_22: -7090173053245802104
+      PisoTunel_23: 7968918532610892001
+      PisoTunel_24: -4044448455200768940
+      PisoTunel_25: 4718748228762933155
+      PisoTunel_26: 1957440119144769007
+      PisoTunel_3: -8494535740748440804
+      PisoTunel_4: 4230712640941575517
+      PisoTunel_5: -866262716566623193
+      PisoTunel_6: 161622513620873137
+      PisoTunel_7: -2129318613079224615
+      PisoTunel_8: -3985780541813008347
+      PisoTunel_9: 3786036866339006308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
