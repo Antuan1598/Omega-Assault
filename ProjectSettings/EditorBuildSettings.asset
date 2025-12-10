@@ -6,8 +6,29 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/MenuPrincipal (2).unity
+    guid: c932f4f9f1b74b246a2e8d10aaa71613
+  - enabled: 1
+    path: Assets/Scenes/Fabrica.unity
+    guid: e110a5d2f8cf0824e8491216ef2ee73e
+  - enabled: 1
+    path: Assets/Scenes/Opciones (2).unity
+    guid: 8fde2545216301b4f821277c0c32119f
+  - enabled: 1
+    path: Assets/Scenes/Creditos (2).unity
+    guid: 4eec34ebb7acc864ca21066d553eb18e
+  - enabled: 1
+    path: Assets/Scenes/Derrota (2).unity
+    guid: c3eb7c6f214900f44bfee3367464c092
+  - enabled: 1
+    path: Assets/Scenes/ZonaRocosa.unity
+    guid: 01946ac938b798a459c319bb68857cf4
+  - enabled: 1
+    path: Assets/Scenes/Tunel.unity
+    guid: 14c006aed74c9c949b2abb6b2dd67286
+  - enabled: 1
+    path: Assets/Scenes/Salir (2).unity
+    guid: 7395282c923a47a45acd80cf9845b0cd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

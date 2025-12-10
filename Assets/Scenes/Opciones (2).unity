@@ -1111,7 +1111,7 @@ GameObject:
   - component: {fileID: 341233854}
   - component: {fileID: 341233853}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: PanelOpciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
